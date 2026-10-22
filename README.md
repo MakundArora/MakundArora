@@ -5,7 +5,7 @@ enough to act in the real world. My research direction:
 **LLM agents → reliable AI → physical AI**, where AI meets electrical engineering.
 
 - 🎓 M.Tech, Engineering Systems, and B.Tech, Electrical Engineering (CS specialisation), Dayalbagh Educational Institute
-- 💼 Previously Data Scientist & AI Engineer on the Digital AI team at IndiGo, building LLM agents (LangGraph) for enterprise workflows
+- 💼 Data Scientist & AI Engineer on the Digital AI team at IndiGo, building LLM agents (LangGraph) for enterprise workflows
 - 🔬 Research internship in image processing at IIT Delhi
 - 📄 5 peer-reviewed publications in deep learning (CNNs) and computer vision
 - 🌱 Currently preparing for PhD research on LLM agents for engineering systems (e.g. fault diagnosis)
